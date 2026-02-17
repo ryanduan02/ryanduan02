@@ -8,5 +8,3 @@ I'm also working on seedfinding in Minecraft. I'm particularly interested in loo
 Check out my [personal website](https://ryanduan.is-a.dev/), [chess.com](https://www.chess.com/member/ryanxd), 
 [clash royale](https://royaleapi.com/player/2G9GPRV8), and [clash of clans](https://www.clashofstats.com/players/ryan-2PJ2RQP28/summary).
 
-I have nothing else to say for now
-
